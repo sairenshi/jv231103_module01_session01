@@ -1,0 +1,18 @@
+<DOTYPE html>: định nghĩa các loại tài liệu
+head:là nơi chứa các link từ ngoài thư viện bên ngoài hoặc liên kết giữa các file
+body: là nơi chứa các element(phân tử) html
+
+thẻ block:
++nó sẽ chiếm hết 100% diện tích nó có thế chiếm
++ các thẻ block sẽ đc sắp xếp vs nhau theo chiều dọc
++chiều cao của thẻ sẽ phụ thuộc vào dòng nội dung
+thẻ inline:
++ diện tích chỉ chiếm đến phần nội dung của nó
++ các thẻ inline sẽ đc sắp xếp vs nhau theo chiều ngang
++chiều cao của thẻ sẽ phụ thuộc vào dòng nội dung
+
+=> các thẻ block hay đc dùng để xây dựng bố cục tổng quát cho trang web
+=> các thẻ inline hay đc dùng để xây dựng chi tiết cho trang web
+cách biến đỏi 1 thẻ inline thành block và ngược lại biến 1 thẻ block thành inline
++ bọc thẻ inline trong 1 thẻ block
++sử dụng thuộc tính CSS: display:block

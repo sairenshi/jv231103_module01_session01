@@ -1,0 +1,6 @@
+-copy code
++ bôi đen phàn cần copy ctrl+c và ctrl+v
+focus chuột vào dòng cần copy: ctrl+c và ctrl+v
+alt+shift + mũi tên đi lên or xuống
+-thay đổi những đoạn text giống nhau
++ bôi đen những đoạn txt giống nhau:ctrl+shift+L (chọn tất cả) hoặc ctrl+D(chọn từng cái)
